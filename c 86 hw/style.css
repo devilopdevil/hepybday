@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(https://media1.tenor.com/images/424bc10c7fadf594cdca833b004272c4/tenor.gif?itemid=11348292);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color:darkviolet;
+  background-image:url(https://i.pinimg.com/originals/d2/c6/ac/d2c6acd9315d5a2ade2fc092936438da.gif)
+}
+
